@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
 
     val users = mutableListOf(
-        User("Umair", "Saeed", "umair@miu.com", "123456"),
+        User("raja", "usman", "usman@miu.com", "123456"),
         User("Saad", "khan", "saad@miu.com", "123456"),
         User("Bilal", "Amjad", "bilal@miu.com", "123456"),
         User("Mark", "Larry", "mark@miu.com", "123456"),
